@@ -20,10 +20,10 @@ Visit keepup.space to get started. The platform offers two different perspective
 
 ## Authors
 
-Matthew Goodman - 
+Matthew Goodman 
 Wassim
 Ryan
-Lily Carson - lilycarson42@gmail.com
+Lily Carson 
 
 
 ## Acknowledgments
