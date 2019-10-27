@@ -1,0 +1,131 @@
+#main-cards {
+    padding: 50px;
+    padding-top: 50px;
+}
+
+.card-title {
+    padding-top: 10px;
+}
+
+.card {
+    margin-bottom: 30px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+#ask-question {
+    height: 60px;
+}
+
+.form-control:read-only {
+    background-color: white;
+}
+
+.upvoteBtn {
+    font-size: 16px;
+
+}
+
+.voteButton {
+  transition: transform 0.2s;
+}
+
+.voteButton:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+
+.questions-teacher {
+    font-size: 22px;
+}
+
+.questions {
+  padding-bottom: 10px;
+}
+
+
+body {
+    align-content: center;
+}
+
+
+#question-container {
+    padding: 30px;
+    padding-bottom: 5px;
+
+
+}
+
+.question-body {
+    height: 160px;
+}
+
+#questions-panel {
+    text-align: center;
+    width: 700px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+
+.thumbsupgreen {
+    background-color: chartreuse;
+}
+
+.login {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    width: 600px;
+}
+
+.classCode {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    width: 300px;
+}
+
+.logo {
+  float: none;
+  position: relative;
+  align-content: center;
+}
+
+#logoid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+}
+
+
+.center {
+  margin: 0 auto;
+  float: none;
+  font-size: 10px;
+  margin-bottom: 10px;
+
+}
+
+.ptag {
+  font-size: 10px;
+}
+
+.progress-bar-danger {
+  background-color: yellow;
+}
+
+
+.center1 {
+  padding-top: 50px;
+  margin: 0 auto;
+  float: none;
+  font-size: 10px;
+  margin-bottom: 10px;
+
+}
