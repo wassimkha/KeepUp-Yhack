@@ -21,8 +21,11 @@ Visit keepup.space to get started. The platform offers two different perspective
 ## Authors
 
 Matthew Goodman 
-Wassim
-Ryan
+
+Wassim 
+
+Ryan 
+
 Lily Carson 
 
 
